@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+  <head></head>
+  <body>
+    <main id="wrapper">
+    	<!--公共头部-->
+    	<% include('./common/header-common.art') %>
+    </main>
+  </body>
+</html>
